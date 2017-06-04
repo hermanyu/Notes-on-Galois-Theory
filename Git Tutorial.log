@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.12)  3 JUN 2017 22:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.12)  3 JUN 2017 22:41
 entering extended mode
 **"./Git Tutorial.tex"
 ("Git Tutorial.tex"
@@ -587,7 +587,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks43
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-No file "Git Tutorial".aux.
+("Git Tutorial.aux")
 \openout1 = `"Git Tutorial.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -602,7 +602,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count130
@@ -716,18 +716,22 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 {C:/Users/Home/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("Git Tutori
 al.aux") ) 
 Here is how much of TeX's memory you used:
- 22425 strings out of 493333
- 577037 string characters out of 3139197
- 756447 words of memory out of 3000000
- 25573 multiletter control sequences out of 15000+200000
- 7332 words of font info for 30 fonts, out of 3000000 for 9000
+ 22457 strings out of 493333
+ 577388 string characters out of 3139197
+ 757447 words of memory out of 3000000
+ 25594 multiletter control sequences out of 15000+200000
+ 12480 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,6n,96p,746b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Git Tutorial.pdf" (1 page, 22803 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "Git Tutorial.pdf" (1 page, 53585 bytes).
 PDF statistics:
- 17 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
